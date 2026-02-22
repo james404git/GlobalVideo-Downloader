@@ -1,6 +1,6 @@
 # 🚀 GlobalVideo: Ad-Free Media Link to File Converter
 
-**[(Visit GlobalVideo.download)](https://globalvideo.download)** GlobalVideo is a high-performance web interface for `yt-dlp`, designed to provide a clean, ad-free experience for users needing to save media for offline use. 
+**[[Visit GlobalVideo.download]](https://globalvideo.download)** GlobalVideo is a high-performance web interface for `yt-dlp`, designed to provide a clean, ad-free experience for users needing to save media for offline use. 
 
 ## ✨ Key Features
 * **1000+ Sites Supported:** Download from Reddit, TikTok, YouTube, Twitter (X), and more.

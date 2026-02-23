@@ -362,7 +362,6 @@
                         if (disposition && disposition.indexOf('attachment') !== -1) {
                             const matches = /filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/.exec(disposition);
                             if (matches != null && matches[1]) filename = matches[1].replace(/['"]/g, '');
-                            // Fix for URL encoded filenames from Flask
                             filename = decodeURIComponent(filename);
                         } else {
                             const ext = formData.get('format').split('_')[0];
@@ -407,4 +406,5 @@
         });
     </script>
 </body>
+
 </html>
